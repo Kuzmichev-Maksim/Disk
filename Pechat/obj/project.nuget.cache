@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SI2ixo6Tn+Mo8m7c73a/jNN/71U7DCS9ghSHNv9/h8X+rFRQTYKc91bQsDuhjDD4F8jNYhJGwrzM0vw8CCjAfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\source\\repos\\Практическая 7 - Диск\\Pechat\\Pechat\\Disk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
